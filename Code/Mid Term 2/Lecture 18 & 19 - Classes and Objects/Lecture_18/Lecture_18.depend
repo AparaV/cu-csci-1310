@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1475696860 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 18 - Classes and Objects/Lecture_18/main.cpp
+	<iostream>
+	"Auto.h"
+	"Elevator.h"
+
+1475696166 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 18 - Classes and Objects/Lecture_18/include/Auto.h
+	<iostream>
+
+1475696436 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 18 - Classes and Objects/Lecture_18/src/Auto.cpp
+	"Auto.h"
+
+1475696965 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 18 - Classes and Objects/Lecture_18/include/Elevator.h
+
+1475696763 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 18 - Classes and Objects/Lecture_18/src/Elevator.cpp
+	"Elevator.h"
+

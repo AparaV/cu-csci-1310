@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476128812 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 20/Lecture_20/main.cpp
+	<iostream>
+	<vector>
+	<Array.h>
+
+1476128546 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 20/Lecture_20/include/Array.h
+	<iostream>
+
+1476128198 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 20/Lecture_20/src/Array.cpp
+	"Array.h"
+

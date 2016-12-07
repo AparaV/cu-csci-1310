@@ -1,0 +1,19 @@
+1. filter data - done
+2. parse data - done
+3. compute sentiment score for each tweet - done
+4. assign it to closest state - check lat and long indices
+5. average the sentiment score for each state - done
+6. give each state a color depending on sentiment score - done
+7. display map - done
+
+Add functionality to take data from multiple files - done
+Check lat and long indices - done
+Add functionality for case insensitivity
+Add functionality for serching multiple words - done
+Find test cases
+Write a report
+Prune debug code
+
+Review code
+Review report
+Submit

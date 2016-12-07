@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1476473808 source:/home/user/Dropbox/CSCI1300Materials/Fall2016/Lectures/L23/src/Date.cpp
+	"Date.h"
+	<iostream>
+	<sstream>
+
+1476474259 /home/user/Dropbox/CSCI1300Materials/Fall2016/Lectures/L23/include/Date.h
+	<iostream>
+
+1476474355 source:/home/user/Dropbox/CSCI1300Materials/Fall2016/Lectures/L23/main.cpp
+	<iostream>
+	"Date.h"
+	"Holiday.h"
+
+1476474556 source:/home/user/Dropbox/CSCI1300Materials/Fall2016/Lectures/L23/src/Holiday.cpp
+	"Holiday.h"
+	<iostream>
+
+1476474510 /home/user/Dropbox/CSCI1300Materials/Fall2016/Lectures/L23/include/Holiday.h
+	"Date.h"
+
+1476733431 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 23/L23/src/Date.cpp
+	"Date.h"
+	<iostream>
+	<sstream>
+
+1476733459 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 23/L23/include/Date.h
+	<iostream>
+
+1476731830 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 23/L23/src/Holiday.cpp
+	"Holiday.h"
+	<iostream>
+
+1476731832 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 23/L23/include/Holiday.h
+	"Date.h"
+
+1476732885 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture 23/L23/main.cpp
+	<iostream>
+	"Date.h"
+	"Holiday.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1476471933 source:/home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/Assignment6_Venakteswaran_Challenge/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"WeatherForecasterChallenge.h"
+
+1476154444 source:/home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/WeatherForecasterChallenge.cpp
+	"WeatherForecasterChallenge.h"
+	<cmath>
+
+1476151598 /home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/WeatherForecasterChallenge.h
+	<vector>
+	<iostream>
+
+1476151598 /home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/Assignment6_Venakteswaran_Challenge/WeatherForecasterChallenge.h
+	<vector>
+	<iostream>
+
+1476471818 source:/home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/Assignment6_Venakteswaran_Challenge/WeatherForecasterChallenge.cpp
+	"WeatherForecasterChallenge.h"
+	<cmath>
+

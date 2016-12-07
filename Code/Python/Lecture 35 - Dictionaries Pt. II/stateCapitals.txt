@@ -1,0 +1,51 @@
+State, Capital, Abbreviation, Statehood
+Alabama, Montgomery, AL, 1819
+Alaska, Juneau, AK, 1959
+Arizona, Phoenix, AZ, 1912
+Arkansas, Little Rock, AR, 1836
+California, Sacramento, CA, 1850
+Colorado, Denver, CO, 1876
+Connecticut, Hartford, CT, 1788
+Delaware, Dover, DE, 1787
+Florida, Tallahassee, FL, 1845
+Georgia, Atlanta, GA, 1788
+Hawaii, Honolulu, HI, 1959
+Idaho, Boise, ID, 1890
+Illinois, Springfield, IL, 1818
+Indiana, Indianapolis, IN, 1816
+Iowa, Des Moines, IA, 1846
+Kansas, Topeka, KS, 1861
+Kentucky, Frankfort, KY, 1792
+Louisiana, Baton Rouge, LA, 1812
+Maine, Augusta, ME, 1820
+Maryland, Annapolis, MD, 1788
+Massachusetts, Boston, MA, 1788
+Michigan, Lansing, MI, 1837
+Minnesota, St.Paul, MN, 1858
+Mississippi, Jackson, MS, 1817
+Missouri, Jefferson City, MO, 1821
+Montana, Helena, MT, 1889
+Nebraska, Lincoln, NE, 1867
+Nevada, Carson City, NV, 1864
+New Hampshire, Concord, NH, 1788
+New Jersey, Trenton, NJ, 1787
+New Mexico, Santa Fe, NM, 1912
+New York, Albany, NY, 1788
+North Carolina, Raleigh, NC, 1789
+North Dakota, Bismarck, ND, 1889
+Ohio, Columbus, OH, 1803
+Oklahoma, Oklahoma City, OK, 1907
+Oregon, Salem, OR, 1859
+Pennsylvania, Harrisburg, PA, 1787
+Rhode Island, Providence, RI, 1790
+South Carolina, Columbia, SC, 1788
+South Dakota, Pierre, SD, 1889
+Tennessee, Nashville, TN, 1796
+Texas, Austin, TX, 1845
+Utah, Salt Lake City, UT, 1896
+Vermont, Montpelier, VT, 1791
+Virginia, Richmond, VI, 1788
+Washington, Olympia, WA, 1889
+West Virginia, Charleston, WV, 1863
+Wisconsin, Madison, WI, 1848
+Wyoming, Cheyenne, WY, 1890

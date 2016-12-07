@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476474262 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture-22/main.cpp
+	<iostream>
+	<Date.h>
+	<Holiday.h>
+
+1476474276 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture-22/include/Date.h
+	<iostream>
+	<sstream>
+
+1476473590 source:/home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture-22/src/Date.cpp
+	"Date.h"
+
+1476474249 /home/user/Desktop/CSCI 1310/Code/Mid Term 2/Lecture-22/include/Holiday.h
+	<iostream>
+	<Date.h>
+

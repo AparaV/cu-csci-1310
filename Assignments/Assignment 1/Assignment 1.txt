@@ -1,0 +1,131 @@
+1.
+
+spb = 7 //seconds per birth
+spd = 13 //seconds per death
+spi = 35 //seconds per immigrant
+
+currpop = 303357970 //current population
+
+secinyr = 365*24*60*60 //seconds in a year
+
+newpop = currpop + (secinyr/spb) //add new borns
+newpop = newpop - (secinyr/spd) //minus deaths
+newpop = newpop + (secinyr/spi) //add immigrants
+
+print(newpop)
+
+2.
+
+secinday = 86400 //seconds in a day
+secinmin = 60 //seconds in a minute
+secinhr = 3600 //seconds in an hour
+x = input("Enter number of seconds")
+
+while x < 0 or x > 86400
+	x = input("The number of seconds should be between 0 and 86400")
+
+H = x / secinhr //number of hours
+x = x % secinhr //remaining seconds
+
+M = x / secinmin //number of minutes
+x = x % secinmin //remaining seconds
+
+S = x //number of seconds
+
+output("The time is H hours, M minutes, and S seconds")
+
+3.
+
+fahrenheit = input("Enter the temperature in fahrenheit")
+
+celsius = (fahrenheit - 32) * (5/9)
+
+output("fahrenheit F is celsius C")
+
+4.
+
+x = input("Enter a number between 1 and 10")
+
+while x < 1 or x > 10
+	output("The number does not lie between 1 and 10")
+	x = input("Enter a number between 1 and 10")
+
+output(x)
+
+5.
+
+mileage = input("Enter the miles per gallon of your car")
+
+while mileage < 0
+	output("Mileage cannot be negative. Enter a valid number.")
+	mileage = input("Enter the miles per gallon of your car")
+
+if mileage > 30
+	output("Nice job")
+else if mileage >= 15
+	output("Not great, but okay.")
+else
+	output("So bad, so very, very bad")
+
+6.
+
+output("Welcome to the Dark Age.")
+output("You are the head of the Round Table, Sir X.")
+output("Your kingdom is in peril and everyone is looking to you to save the world.")
+
+choice = 1
+
+while choice != 0
+	output("What do you want to do?")
+	output("Pick a number corresponding to your action.")
+	output("0 - Go Home?")
+	output("1 - Fight the Dragon?")
+	output("2 - Save the Princess?")
+	choice = input()
+	if choice == 0
+		output("Wimp.")
+		exit loop
+	else if choice == 1
+		output("You win!")
+	else if choice == 2
+		output("You saved the princess")
+	else
+		output("Your choice does not make sense.")
+
+7.
+
+mapsize = 10
+map[mapsize+1][mapsize+1]
+white = 0
+blue = 1
+green = 2
+black = 3
+yellow = 5
+wall = -1
+rx = 0, ry = 0 //robot's inital pos
+
+for i from 0 to mapsize //this loop sets the outer border of the map as walls
+	map[i][0] = wall //bottom set of walls
+	map[0][i] = wall //left set of walls
+	map[mapsize][i] = wall //right set of walls
+	map[i][mapsize] = wall //top set of walls
+
+while map[rx][ry] != yellow
+	if map[rx][ry] == white
+		if front tile != wall
+			move forward //assume predefined
+	if map[rx][ry] == blue
+		if left tile != wall
+			turn left //assume predefined
+			move forward
+	if map[rx][ry] == green
+		if right tile != wall
+			turn right //assume predefined
+			move forward
+	if map[rx][ry] == black
+		if back tile != wall
+			turn right
+			turn right
+			move forward
+			if back tile != wall
+				move forward //moves back 2 steps

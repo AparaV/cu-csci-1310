@@ -1,0 +1,74 @@
+{
+   "avehumidity": 42, 
+   "avewind": {
+      "degrees": 81, 
+      "dir": "E", 
+      "kph": 8, 
+      "mph": 5
+   }, 
+   "conditions": "Clear", 
+   "date": {
+      "ampm": "PM", 
+      "day": 11, 
+      "epoch": "1478916000", 
+      "hour": 19, 
+      "isdst": "0", 
+      "min": "00", 
+      "month": 11, 
+      "monthname": "November", 
+      "monthname_short": "Nov", 
+      "pretty": "7:00 PM MST on November 11, 2016", 
+      "sec": 0, 
+      "tz_long": "America/Denver", 
+      "tz_short": "MST", 
+      "weekday": "Friday", 
+      "weekday_short": "Fri", 
+      "yday": 315, 
+      "year": 2016
+   }, 
+   "high": {
+      "celsius": "15", 
+      "fahrenheit": "59"
+   }, 
+   "icon": "clear", 
+   "icon_url": "http://icons.wxug.com/i/c/k/clear.gif", 
+   "low": {
+      "celsius": "2", 
+      "fahrenheit": "36"
+   }, 
+   "maxhumidity": 0, 
+   "maxwind": {
+      "degrees": 81, 
+      "dir": "E", 
+      "kph": 16, 
+      "mph": 10
+   }, 
+   "minhumidity": 0, 
+   "period": 1, 
+   "pop": 0, 
+   "qpf_allday": {
+      "in": 0.0, 
+      "mm": 0
+   }, 
+   "qpf_day": {
+      "in": 0.0, 
+      "mm": 0
+   }, 
+   "qpf_night": {
+      "in": 0.0, 
+      "mm": 0
+   }, 
+   "skyicon": "", 
+   "snow_allday": {
+      "cm": 0.0, 
+      "in": 0.0
+   }, 
+   "snow_day": {
+      "cm": 0.0, 
+      "in": 0.0
+   }, 
+   "snow_night": {
+      "cm": 0.0, 
+      "in": 0.0
+   }
+}

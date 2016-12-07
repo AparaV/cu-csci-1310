@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1476549741 source:/home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"WeatherForecaster.h"
+
+1476125852 /home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/WeatherForecaster.h
+	<iostream>
+
+1476551152 source:/home/user/Dropbox/CSCI 1310/Assignments/Assignment 6/WeatherForecaster.cpp
+	"WeatherForecaster.h"
+	"cmath"
+
